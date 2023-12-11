@@ -1,16 +1,25 @@
-### Hi there 👋
+# Mateusz Frejlich
 
-<!--
-**Mateusz533/mateusz533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a WUT graduate looking for a permanent or temporary job as intern/junior software developer. I'm eager to take part in any interesting project, which might give me an opportunity to self-development and learnig new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusz-frejlich-aab37a251/)](https://www.linkedin.com/in/mateusz-frejlich-aab37a251/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?tyle=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuszfrejlich533@gmail.com)](mailto:mateuszfrejlich533@gmail.com)
+
+## Technologies
+
+- C++
+- Python
+- ROS
+- OpenCV
+- MatLab
+- Java
+- Spring Boot
+- HTML/CSS
+- JavaScript
+- TypeScript
+- Vue 3
+- GitHub/GitLab
+- Linux CLI
+- MySQL
